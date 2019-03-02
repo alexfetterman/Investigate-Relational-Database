@@ -17,6 +17,7 @@ Jupyter Notebook, PostgreSQL, Tableau
 
 #### Resources
 [Udacity](https://www.udacity.com)
+
 [PostgreSQL Sample Database](http://www.postgresqltutorial.com/postgresql-sample-database/)
 
 #### Date created

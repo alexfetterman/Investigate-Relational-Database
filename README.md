@@ -21,4 +21,4 @@ Jupyter Notebook, PostgreSQL, Tableau
 [PostgreSQL Sample Database](http://www.postgresqltutorial.com/postgresql-sample-database/)
 
 #### Date created
-2018.02.11
+2018.10.12
